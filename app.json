@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "uniwind-prune-repro",
+    "slug": "uniwind-prune-repro",
+    "newArchEnabled": true,
+    "ios": {
+      "bundleIdentifier": "com.example.uniwindprunerepro"
+    },
+    "android": {
+      "package": "com.example.uniwindprunerepro"
+    }
+  }
+}
